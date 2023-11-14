@@ -26,6 +26,7 @@
 <h5>Login</h5>
 [https://github.com/jajangsfn/E-library/blob/main/blob/login.png?raw=true](https://raw.githubusercontent.com/jajangsfn/E-library/main/blob/login.png)
 <h5>Daftar Anggota</h5>
+![alt text](https://github.com/jajangsfn/E-library/blob/main/anggota.png?raw=true)
 https://github.com/jajangsfn/E-library/blob/main/blob/anggota.png?raw=true
 <h5>Daftar Buku</h5>
 https://github.com/jajangsfn/E-library/blob/main/blob/buku.png?raw=true
