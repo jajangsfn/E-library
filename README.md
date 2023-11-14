@@ -25,10 +25,8 @@
 ## Tampilan Screenshot</h4>
 <h5>Login</h5>
 ![login](https://github.com/jajangsfn/E-library/assets/16512863/cc39b486-5e51-4356-80f0-bebde24a5be8)
-
 <h5>Daftar Anggota</h5>
-![Daftar Anggota](https://github.com/jajangsfn/E-library/blob/main/anggota.png?raw=true)
-https://github.com/jajangsfn/E-library/blob/main/blob/anggota.png?raw=true
+![anggota](https://github.com/jajangsfn/E-library/assets/16512863/3c78d4e9-fac9-4e1b-ab0e-5e8becc6695f)
 <h5>Daftar Buku</h5>
 https://github.com/jajangsfn/E-library/blob/main/blob/buku.png?raw=true
 <h5>Peminjaman Buku</h5>
