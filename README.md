@@ -2,14 +2,14 @@
 <p>Fitur yg terdapat pada aplikasi ini :</p>
 <ul> 
 	<li>Login Akun</li>
-<li>Register Akun</li>
-<li>Pendaftaran Data Anggota</li>
-<li>Penambahan Data Buku</li>
-<li>Peminjaman Buku</li>
-<li>Pengembalian Buku Include Denda *jika ada.</li>
+    <li>Register Akun</li>
+    <li>Pendaftaran Data Anggota</li>
+    <li>Penambahan Data Buku</li>
+    <li>Peminjaman Buku</li>
+    <li>Pengembalian Buku Include Denda *jika ada.</li>
 </ul>
-##Aplikasi berbasi Open Source jadi boleh digunakan baik untuk dipelajari maupun dikembangkan 
 
+## Aplikasi berbasi Open Source jadi boleh digunakan baik untuk dipelajari maupun dikembangkan 
 
 ## Tata Cara Penggunaan:
 1. Clone Repository
@@ -20,7 +20,6 @@
 6. kemudian ketik php artisan serve
 7. buka halaman http://127.0.0.1:8000
 8. username dan password default adalah : admin@gmail.com/admin
-
 
 ## Tampilan Screenshot</h4>
 <h5>Login</h5>
