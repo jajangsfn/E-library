@@ -25,11 +25,15 @@
 ## Tampilan Screenshot</h4>
 <h5>Login</h5>
 ![login](https://github.com/jajangsfn/E-library/assets/16512863/cc39b486-5e51-4356-80f0-bebde24a5be8)
+<h5>Register Akun</h5>
+![register](https://github.com/jajangsfn/E-library/assets/16512863/03e909a2-9c3e-4044-9881-2c79a722c1a1)
+
 <h5>Daftar Anggota</h5>
 ![anggota](https://github.com/jajangsfn/E-library/assets/16512863/3c78d4e9-fac9-4e1b-ab0e-5e8becc6695f)
 <h5>Daftar Buku</h5>
-![Alt text](https://github.com/jajangsfn/E-library/blob/main/buku.png?raw=true)
+![buku](https://github.com/jajangsfn/E-library/assets/16512863/c547ecb0-cb86-4ac0-b885-59af97106f1f)
 <h5>Peminjaman Buku</h5>
-https://github.com/jajangsfn/E-library/blob/main/blob/peminjaman.png?raw=true
+![peminjaman](https://github.com/jajangsfn/E-library/assets/16512863/91ed4475-47ae-47fa-be0f-a7efa91f9c73)
 <h5>Pengembalian Buku</h5>
-https://github.com/jajangsfn/E-library/blob/main/blob/pengembalian.png?raw=true
+![pengembalian](https://github.com/jajangsfn/E-library/assets/16512863/26ec6746-d560-4872-a2e2-fb9467dc3c9b)
+
