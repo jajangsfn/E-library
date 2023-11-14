@@ -24,7 +24,8 @@
 
 ## Tampilan Screenshot</h4>
 <h5>Login</h5>
-![Login](https://raw.githubusercontent.com/jajangsfn/E-library/main/blob/login.png)
+![login](https://github.com/jajangsfn/E-library/assets/16512863/cc39b486-5e51-4356-80f0-bebde24a5be8)
+
 <h5>Daftar Anggota</h5>
 ![Daftar Anggota](https://github.com/jajangsfn/E-library/blob/main/anggota.png?raw=true)
 https://github.com/jajangsfn/E-library/blob/main/blob/anggota.png?raw=true
