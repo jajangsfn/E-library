@@ -28,7 +28,7 @@
 <h5>Daftar Anggota</h5>
 ![anggota](https://github.com/jajangsfn/E-library/assets/16512863/3c78d4e9-fac9-4e1b-ab0e-5e8becc6695f)
 <h5>Daftar Buku</h5>
-![Alt text](https://github.com/jajangsfn/E-library/blob/main/blob/buku.png?raw=true)
+![Alt text](https://github.com/jajangsfn/E-library/blob/main/buku.png?raw=true)
 <h5>Peminjaman Buku</h5>
 https://github.com/jajangsfn/E-library/blob/main/blob/peminjaman.png?raw=true
 <h5>Pengembalian Buku</h5>
